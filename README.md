@@ -32,3 +32,10 @@ create 4 dataframes to transform into pgAdmin.   These dataframes were: review_i
 ### vine_table
 
 ![](Resources/vine_id_table.png)
+
+
+### Deliverable 2
+
+I used the same extraction of the data for the Vine analysis as in the Amazon dat frame extraction.   The analysis consisted of creating tables
+for the total voters, 20 or more votes, helpful votes are greater than 50%, filtered if vine review existed or not, and finally the percentage 
+of reviews for Vine and non Vine reviews.
