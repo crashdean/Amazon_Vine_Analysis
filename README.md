@@ -45,3 +45,12 @@ of reviews for Vine and non Vine reviews.
 *  Total number of paid Vine reviewers was 432.
 *  Total number of nonpaid Vine reviewers was 29982.
 *  Percentange of paid Vine reviewers was just 1% compared to non paid of 96%.
+
+### Deliverable 3
+
+## Overview Of the Analysis
+
+The pupose of the anaylis was to determine if there was a bias towards paid reviewers.  For this study, the analysis show a strong bias towards non paid
+Vine reviewers.   The 1% of paid Vine viewers compared to 96% non paid Vine veiwers show this.   We did, however, reduce the number of total viewers 
+to only using 5 star reviews.   The number of reviews might have been more towards the paid Vine reviews if analysis was ran on the unfiltered group.
+If were ran the same analysis on all avsailable datasets, we would get a better sample.
