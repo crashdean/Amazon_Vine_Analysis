@@ -27,7 +27,7 @@ create 4 dataframes to transform into pgAdmin.   These dataframes were: review_i
 
 ### customers_table
 
-![](Resources/))
+![](Resources/customers_id_table.png))
 
 ### vine_table
 
