@@ -39,3 +39,9 @@ create 4 dataframes to transform into pgAdmin.   These dataframes were: review_i
 I used the same extraction of the data for the Vine analysis as in the Amazon dat frame extraction.   The analysis consisted of creating tables
 for the total voters, 20 or more votes, helpful votes are greater than 50%, filtered if vine review existed or not, and finally the percentage 
 of reviews for Vine and non Vine reviews.
+
+*  Total number of reviewers started as 70474.
+*  Total number of reviewers with 5 stars was 31285.
+*  Total number of paid Vine reviewers was 432.
+*  Total number of nonpaid Vine reviewers was 29982.
+*  Percentange of paid Vine reviewers was just 1% compared to non paid of 96%.
