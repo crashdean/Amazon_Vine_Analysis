@@ -19,11 +19,11 @@ create 4 dataframes to transform into pgAdmin.   These dataframes were: review_i
 
 ### review_id_table
 
-![](Resources/)
+![](Resources/review_id_table)
 
 ### products_table
 
-![](Resources/)
+![](Resources/product_id_table)
 
 ### customers_table
 
@@ -31,4 +31,4 @@ create 4 dataframes to transform into pgAdmin.   These dataframes were: review_i
 
 ### vine_table
 
-![](Resources/)
+![](Resources/vine_id_table)
